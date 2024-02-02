@@ -1,4 +1,11 @@
+<img src="https://github.com/Ozel0t-G/Ozel0t-G/blob/main/ozel0t-hello.gif"/>
+
+
+
 ### Hi there 👋
+
+#### Having served as an IT soldier in the Bundeswehr, I dedicated my skills and knowledge to bolster cybersecurity, IT governance, and IT service delivery for the security and operations of the German armed forces. Along my journey, I completed online courses in cybersecurity to enhance my skills. These courses equipped me with the ability to respond effectively to cyber incidents and analyze threats using SIEMs and frameworks. With over four years of experience as an IT soldier. My passion lies in safeguarding the information and infrastructure of my organization. I am enthusiastic about advancing my career in the dynamic field of cybersecurity.
+
 
 <!--
 **Ozel0t-G/Ozel0t-G** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
