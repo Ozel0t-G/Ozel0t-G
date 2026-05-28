@@ -35,12 +35,7 @@ Running a self-hosted Home Assistant setup with Zigbee/Thread. Interested in IoT
 
 ---
 
-## Currently
 
-Diving deeper into detection engineering and risk methodology. If you're working on something in that space, or you're hiring in Norway – feel free to reach out.
-
-📍 Vestland, Norway &nbsp;|&nbsp; 🌐 [LinkedIn](https://linkedin.com/in/) &nbsp;|&nbsp; 🇩🇪 🇬🇧 🇳🇴
----
 
 ## Currently
 
